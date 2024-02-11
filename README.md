@@ -13,4 +13,4 @@ Python programming language and Microsoft Visual Studio Code was used for all th
 
 2. Exploratory Data Analysis- An Exploratory Data Analysis (EDA) is conducted on the bike hire data. This included the study and visualisation of monthly, weekly, and daily rental counts along with the Origin-Destination (OD) matrix for all the docking stations in London. The most and least used stations were also analysed and compared.
 
-3. 
+3. Desnsity Maps- The density maps study the variation in the density of the arrival and departure rates. The departure and arrival count for each destination and origin, at a given hour are calculated, the difference of which is the net departure rate. The station having positive net departure i.e., net departure > 0, is plotted with a green-coloured circle, whereas the station having negative net departure i.e., net departure < 0, is plotted with a red-coloured circle. This density is calculated and plotted for 24 hours to highlight the usage of a station throughout the day in a video format. 
